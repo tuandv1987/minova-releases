@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/editpro-v2.1.0/MinovaEditPro.exe",
-  "changelog": "",
+  "changelog": "- Them 3 che do video moi\n- Nang cap Audio Visualizer\n- He thong auto-update",
   "mandatory": false
 }

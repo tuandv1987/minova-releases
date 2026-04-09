@@ -1,6 +1,6 @@
 ﻿{
-  "version": "2.0.1",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.1/MiNoVaCreative.exe",
-  "changelog": "- Them Telegram Chat\n- Tich hop auto update\n- Cap nhat giao dien",
-  "mandatory": false
+    "mandatory":  false,
+    "changelog":  "- Fix khong chay duoc exe\n- Chuyen sang ZIP self-contained",
+    "version":  "2.0.3",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.3/MiNoVaCreative-v2.0.3.zip"
 }

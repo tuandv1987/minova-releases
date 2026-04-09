@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Them tinh nang upload file vao Wiki (ho tro file dung luong lon)\n- Tat ca nhan vien deu co the vao Cai dat de cap nhat phien ban\n- An thong tin Database, Backup, Security voi tai khoan nhan vien\n- Double-click file trong Wiki de mo bang app mac dinh\n- Click phai file Wiki co menu Mo file va Mo thu muc",
-    "version":  "2.0.9",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.9/MiNoVaCreative-v2.0.9.zip"
+    "changelog":  "- fix bug",
+    "version":  "2.0.10",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.10/MiNoVaCreative-v2.0.10.zip"
 }

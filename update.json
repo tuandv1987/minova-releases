@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- fix logo\n- fix icon\n- fix title bar mac dinh",
-    "version":  "2.0.4",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.4/MiNoVaCreative-v2.0.4.zip"
+    "changelog":  "- fix loi database",
+    "version":  "2.0.5",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.5/MiNoVaCreative-v2.0.5.zip"
 }

@@ -1,6 +1,6 @@
 ﻿{
-    "mandatory":  false,
-    "changelog":  "- Them Telegram Chat\n- Tich hop auto update\n- Cap nhat giao dien",
-    "version":  "2.0.1",
-    "downloadUrl":  "https://raw.githubusercontent.com/tuandv1987/minova-releases/main/releases/MiNoVaCreative.exe"
+  "version": "2.0.1",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.1/MiNoVaCreative.exe",
+  "changelog": "- Them Telegram Chat\n- Tich hop auto update\n- Cap nhat giao dien",
+  "mandatory": false
 }

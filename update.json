@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix khong chay duoc exe\n- Chuyen sang ZIP self-contained",
-    "version":  "2.0.3",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.3/MiNoVaCreative-v2.0.3.zip"
+    "changelog":  "- fix logo\n- fix icon\n- fix title bar mac dinh",
+    "version":  "2.0.4",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.4/MiNoVaCreative-v2.0.4.zip"
 }

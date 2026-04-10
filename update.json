@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Them cham cong check-in/out cho nhan vien\n- Color tags Select/MultiSelect\n- Xoa thiet bi dang ky lai\n- Toi uu toc do cap nhat\n- Toi uu Telegram WebView",
-    "version":  "2.0.16",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.16/MiNoVaCreative-v2.0.16.zip"
+    "changelog":  "- fix bug",
+    "version":  "2.0.17",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.17/MiNoVaCreative-v2.0.17.zip"
 }

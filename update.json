@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Tối ưu hiệu năng: cache FooterSummaryText, chống notification storm khi chọn nhiều dòngn- DataGrid Recycling Virtualization trên 14 view: scroll mượt hơn với dữ liệu lớnn- Fix _selectedCount cached backing field, giảm số lần scan O(N)",
-    "version":  "2.0.24",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.24/MiNoVaCreative-v2.0.24.zip"
+    "changelog":  "- Fix cot DuplexLink (lien ket 2 chieu): thay the ComboBox bang dialog chon ban ghi kieu Lark Suite - co tim kiem, chip hien thi gia tri, nut bo chon",
+    "version":  "2.0.25",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.25/MiNoVaCreative-v2.0.25.zip"
 }

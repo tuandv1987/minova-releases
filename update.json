@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix cot DuplexLink (lien ket 2 chieu): thay the ComboBox bang dialog chon ban ghi kieu Lark Suite - co tim kiem, chip hien thi gia tri, nut bo chon",
-    "version":  "2.0.25",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.25/MiNoVaCreative-v2.0.25.zip"
+    "changelog":  "- Fix loi handler type cho DuplexLink picker dialog",
+    "version":  "2.0.26",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.26/MiNoVaCreative-v2.0.26.zip"
 }

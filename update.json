@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- fix bug",
-    "version":  "2.0.23",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.23/MiNoVaCreative-v2.0.23.zip"
+    "changelog":  "- Tối ưu hiệu năng: cache FooterSummaryText, chống notification storm khi chọn nhiều dòngn- DataGrid Recycling Virtualization trên 14 view: scroll mượt hơn với dữ liệu lớnn- Fix _selectedCount cached backing field, giảm số lần scan O(N)",
+    "version":  "2.0.24",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.24/MiNoVaCreative-v2.0.24.zip"
 }

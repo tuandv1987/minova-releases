@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi Cannot set Owner: thay Application.Current.MainWindow bang GetActiveWindow() helper - Redesign GoLogin UI: chuyen tu DataGrid sang card grid layout, moi profile hien thi dang card dep hon",
-    "version":  "2.0.30",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.30/MiNoVaCreative-v2.0.30.zip"
+    "changelog":  "- Redesign GoLogin: layout hang (row-based) voi color accent bar, status pill, hover effect, group header dep hon - giu layout hang de quan li truc quan khi co nhieu profiles",
+    "version":  "2.0.31",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.31/MiNoVaCreative-v2.0.31.zip"
 }

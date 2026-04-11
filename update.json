@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi StaticResource: thay InputBgBrush, HoverBrush, GhostIconButtonStyle bang cac key hop le trong theme",
-    "version":  "2.0.27",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.27/MiNoVaCreative-v2.0.27.zip"
+    "changelog":  "- Fix loi concurrent DbContext: A second operation was started on this context - them SemaphoreSlim serialize DB operations, guard timer khong flush khi dang load",
+    "version":  "2.0.28",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.28/MiNoVaCreative-v2.0.28.zip"
 }

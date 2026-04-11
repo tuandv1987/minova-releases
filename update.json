@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix du lieu da xoa van hien lai: khi FlushPendingSaves bi block boi semaphore, restart timer de retry thay vi bo qua save",
-    "version":  "2.0.29",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.29/MiNoVaCreative-v2.0.29.zip"
+    "changelog":  "- Fix loi Cannot set Owner: thay Application.Current.MainWindow bang GetActiveWindow() helper - Redesign GoLogin UI: chuyen tu DataGrid sang card grid layout, moi profile hien thi dang card dep hon",
+    "version":  "2.0.30",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.30/MiNoVaCreative-v2.0.30.zip"
 }

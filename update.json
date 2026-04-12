@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix dứt điểm lỗi kết nối: build connection string trực tiếp từ server-config, bỏ qua appsettings.json bị broken",
-    "version":  "2.0.48",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.48/MiNoVaCreative-v2.0.48.zip"
+    "changelog":  "- Fix lỗi khởi động app: FormatException khi SQL cleanup chứa ký tự {} bị String.Format parse nhầm thành placeholder",
+    "version":  "2.0.50",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.50/MiNoVaCreative-v2.0.50.zip"
 }

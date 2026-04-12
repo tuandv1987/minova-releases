@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix lỗi khởi động app: FormatException khi SQL cleanup chứa ký tự {} bị String.Format parse nhầm thành placeholder",
-    "version":  "2.0.50",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.50/MiNoVaCreative-v2.0.50.zip"
+    "changelog":  "- Fix lỗi xóa hàng loạt: \u0027Employee cannot be tracked because another instance with same key\u0027 khi nhiều channel cùng chia sẻ Manager",
+    "version":  "2.0.51",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.51/MiNoVaCreative-v2.0.51.zip"
 }

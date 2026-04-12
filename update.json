@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix lỗi mở profile GoLogin: HTTP 403 \u0027Error in getting profile info\u0027 — local daemon cũng yêu cầu Bearer token nhưng chưa được gửi",
-    "version":  "2.0.53",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.53/MiNoVaCreative-v2.0.53.zip"
+    "changelog":  "- Fix lỗi mở profile GoLogin: ưu tiên sync:false (không cần GoLogin đăng nhập đúng account) thay vì sync:true (yêu cầu cloud verify → 403 trên máy nhân viên)",
+    "version":  "2.0.54",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.54/MiNoVaCreative-v2.0.54.zip"
 }

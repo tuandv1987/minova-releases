@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix xoa adsense/gmail trong rong (tao ra khi bam them dong loi truoc do)",
-    "version":  "2.0.43",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.43/MiNoVaCreative-v2.0.43.zip"
+    "changelog":  "- Fix sap xep thu tu sai (MNV001 \u003c MNV002 \u003c MNV010) - natural sort\\n- Fix dialog Chia se bang hien thi ten class thay vi ten nhan vien/phong ban",
+    "version":  "2.0.44",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.44/MiNoVaCreative-v2.0.44.zip"
 }

@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi luu circular dependency (Employee navigation property conflict)\\n- Fix loi them cot o bang tuy chinh (migration rieng tung cot)\\n- Fix save/undo/bulk-edit khong luu duoc o bang he thong (Channel/Gmail/AdSense)",
-    "version":  "2.0.40",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.40/MiNoVaCreative-v2.0.40.zip"
+    "changelog":  "- Xoa du lieu demo tu dong (Gmail/AdSense/Channel) khi cai dat moi\\n- Fix app hien thi du lieu ma (ADS001/GM001 v.v.) ma nguoi dung khong tao",
+    "version":  "2.0.42",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.42/MiNoVaCreative-v2.0.42.zip"
 }

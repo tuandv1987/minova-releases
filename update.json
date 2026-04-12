@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Xoa du lieu demo tu dong (Gmail/AdSense/Channel) khi cai dat moi\\n- Fix app hien thi du lieu ma (ADS001/GM001 v.v.) ma nguoi dung khong tao",
-    "version":  "2.0.42",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.42/MiNoVaCreative-v2.0.42.zip"
+    "changelog":  "- Fix xoa adsense/gmail trong rong (tao ra khi bam them dong loi truoc do)",
+    "version":  "2.0.43",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.43/MiNoVaCreative-v2.0.43.zip"
 }

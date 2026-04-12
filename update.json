@@ -1,6 +1,6 @@
-{
-    "version": "2.0.32",
-    "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.32/MiNoVaCreative-v2.0.32.zip",
-    "changelog": "- Fix bug tu tao 2 dong rong (orphan rows): AddRowAsync va DeleteRowAsync giu _dbLock tranh race condition voi debounce timer",
-    "mandatory": false
+﻿{
+    "mandatory":  false,
+    "changelog":  "- Fix xoa dong khong luu vao DB: entities duoc load voi AsNoTracking() nen EF khong track — goi Update() de re-attach truoc SaveChanges. Ap dung cho Delete, BulkDelete, DeleteAll",
+    "version":  "2.0.33",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.33/MiNoVaCreative-v2.0.33.zip"
 }

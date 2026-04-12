@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix lỗi auto-update \u0027Không thể ghi đè file sau 10 lần thử\u0027: chuyển từ .bat (Windows-1252, không hỗ trợ tiếng Việt) sang .ps1 (UTF-8 BOM, xử lý đúng Unicode path)",
-    "version":  "2.0.52",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.52/MiNoVaCreative-v2.0.52.zip"
+    "changelog":  "- Fix lỗi mở profile GoLogin: HTTP 403 \u0027Error in getting profile info\u0027 — local daemon cũng yêu cầu Bearer token nhưng chưa được gửi",
+    "version":  "2.0.53",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.53/MiNoVaCreative-v2.0.53.zip"
 }

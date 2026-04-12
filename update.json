@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi ket noi: tu dong cap nhat lai connection string cu bi broken do password co ky tu dac biet",
-    "version":  "2.0.46",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.46/MiNoVaCreative-v2.0.46.zip"
+    "changelog":  "- Fix dứt điểm lỗi kết nối: build connection string trực tiếp từ server-config, bỏ qua appsettings.json bị broken",
+    "version":  "2.0.48",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.48/MiNoVaCreative-v2.0.48.zip"
 }

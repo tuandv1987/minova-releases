@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix lỗi xóa hàng loạt: \u0027Employee cannot be tracked because another instance with same key\u0027 khi nhiều channel cùng chia sẻ Manager",
-    "version":  "2.0.51",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.51/MiNoVaCreative-v2.0.51.zip"
+    "changelog":  "- Fix lỗi auto-update \u0027Không thể ghi đè file sau 10 lần thử\u0027: chuyển từ .bat (Windows-1252, không hỗ trợ tiếng Việt) sang .ps1 (UTF-8 BOM, xử lý đúng Unicode path)",
+    "version":  "2.0.52",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.52/MiNoVaCreative-v2.0.52.zip"
 }

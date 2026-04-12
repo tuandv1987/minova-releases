@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Pho Phong co quyen them/sua du lieu kenh, tao GoLogin profiles\\n- Pho Phong xem duoc du lieu kenh cua phong minh\\n- Fix xoa dong khong luu DB (AsNoTracking bug)",
-    "version":  "2.0.34",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.34/MiNoVaCreative-v2.0.34.zip"
+    "changelog":  "- Fix loi them cot o bang tuy chinh (thieu migration DB cho Width, FormulaExpression, LinkedTable, LinkedColumn, CreatedBy)\\n- Fix loi xoa dong o bang Gmail va AdSense (du lieu hien lai sau khi xoa)",
+    "version":  "2.0.39",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.39/MiNoVaCreative-v2.0.39.zip"
 }

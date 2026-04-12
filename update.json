@@ -1,6 +1,6 @@
-﻿{
-    "mandatory":  false,
-    "changelog":  "- Redesign GoLogin: layout hang (row-based) voi color accent bar, status pill, hover effect, group header dep hon - giu layout hang de quan li truc quan khi co nhieu profiles",
-    "version":  "2.0.31",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.31/MiNoVaCreative-v2.0.31.zip"
+{
+    "version": "2.0.32",
+    "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.32/MiNoVaCreative-v2.0.32.zip",
+    "changelog": "- Fix bug tu tao 2 dong rong (orphan rows): AddRowAsync va DeleteRowAsync giu _dbLock tranh race condition voi debounce timer",
+    "mandatory": false
 }

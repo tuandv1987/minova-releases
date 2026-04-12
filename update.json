@@ -1,6 +1,1 @@
-﻿{
-    "mandatory":  false,
-    "changelog":  "- Fix lỗi mở profile GoLogin: ưu tiên sync:false (không cần GoLogin đăng nhập đúng account) thay vì sync:true (yêu cầu cloud verify → 403 trên máy nhân viên)",
-    "version":  "2.0.54",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.54/MiNoVaCreative-v2.0.54.zip"
-}
+{"version":"2.0.55","downloadUrl":"https://github.com/tuandv1987/minova-releases/releases/download/v2.0.55/MiNoVaCreative_v2.0.55.zip","releaseNotes":"Fix GoLogin 403: inject API token vao local daemon truoc khi start profile."}

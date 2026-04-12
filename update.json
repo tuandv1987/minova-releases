@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi ket noi database khi password co ky tu dac biet (;, =, {, })",
-    "version":  "2.0.45",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.45/MiNoVaCreative-v2.0.45.zip"
+    "changelog":  "- Fix loi ket noi: tu dong cap nhat lai connection string cu bi broken do password co ky tu dac biet",
+    "version":  "2.0.46",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.46/MiNoVaCreative-v2.0.46.zip"
 }

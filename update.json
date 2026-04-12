@@ -1,6 +1,6 @@
-﻿{
-    "mandatory":  false,
-    "changelog":  "- Fix bug tu dong tao 2 dong rong (orphan rows): AddRowAsync va DeleteRowAsync giu _dbLock tranh race condition voi debounce timer",
-    "version":  "2.0.32",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.32/MiNoVaCreative-v2.0.32.zip"
+{
+    "version": "2.0.32",
+    "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.32/MiNoVaCreative-v2.0.32.zip",
+    "changelog": "- Fix bug tu tao 2 dong rong (orphan rows): AddRowAsync va DeleteRowAsync giu _dbLock tranh race condition voi debounce timer",
+    "mandatory": false
 }

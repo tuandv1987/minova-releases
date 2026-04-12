@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix sap xep thu tu sai (MNV001 \u003c MNV002 \u003c MNV010) - natural sort\\n- Fix dialog Chia se bang hien thi ten class thay vi ten nhan vien/phong ban",
-    "version":  "2.0.44",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.44/MiNoVaCreative-v2.0.44.zip"
+    "changelog":  "- Fix loi ket noi database khi password co ky tu dac biet (;, =, {, })",
+    "version":  "2.0.45",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.45/MiNoVaCreative-v2.0.45.zip"
 }

@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix loi them cot o bang tuy chinh (thieu migration DB cho Width, FormulaExpression, LinkedTable, LinkedColumn, CreatedBy)\\n- Fix loi xoa dong o bang Gmail va AdSense (du lieu hien lai sau khi xoa)",
-    "version":  "2.0.39",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.39/MiNoVaCreative-v2.0.39.zip"
+    "changelog":  "- Fix loi luu circular dependency (Employee navigation property conflict)\\n- Fix loi them cot o bang tuy chinh (migration rieng tung cot)\\n- Fix save/undo/bulk-edit khong luu duoc o bang he thong (Channel/Gmail/AdSense)",
+    "version":  "2.0.40",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.40/MiNoVaCreative-v2.0.40.zip"
 }

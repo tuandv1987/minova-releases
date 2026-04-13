@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Nang cap giao dien dang nhap: Split Screen layout (panel branding trai + form phai)",
-    "version":  "2.0.60",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.60/MiNoVaCreative-v2.0.60.zip"
+    "changelog":  "- Fix proxy auth: tự động nhận username/password khi browser mở (dùng Chrome Extension thay vì --proxy-auth flag không hợp lệ)",
+    "version":  "2.0.61",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.61/MiNoVaCreative-v2.0.61.zip"
 }

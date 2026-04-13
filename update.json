@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix proxy auth: dung Local Proxy Tunnel thay vi Chrome Extension, tu dong inject Proxy-Authorization header, khong hien dialog Sign in",
-    "version":  "2.0.62",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.62/MiNoVaCreative-v2.0.62.zip"
+    "changelog":  "- Fix proxy auth: cap nhat proxy+WebRTC len GoLogin cloud truoc khi launch, Orbita tu doc credentials tu profile data (xoa tunnel/extension)",
+    "version":  "2.0.63",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.63/MiNoVaCreative-v2.0.63.zip"
 }

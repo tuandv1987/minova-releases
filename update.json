@@ -1,1 +1,6 @@
-{"version":"2.0.57","downloadUrl":"https://github.com/tuandv1987/minova-releases/releases/download/v2.0.57/MiNoVaCreative_v2.0.57.zip","releaseNotes":"Fix GoLogin 403: app tu lay profile data bang API token roi push vao GoLogin local daemon - khong can dang nhap GoLogin.exe bang dung account nua","mandatory":true}
+﻿{
+    "mandatory":  false,
+    "changelog":  "- Nang cap giao dien dang nhap: Split Screen layout (panel branding trai + form phai)",
+    "version":  "2.0.60",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.60/MiNoVaCreative-v2.0.60.zip"
+}

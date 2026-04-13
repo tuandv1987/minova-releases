@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "- Fix lỗi mở profile GoLogin: ưu tiên sync:false (không cần GoLogin đăng nhập đúng account) thay vì sync:true (yêu cầu cloud verify → 403 trên máy nhân viên)",
-    "version":  "2.0.54",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.54/MiNoVaCreative-v2.0.54.zip"
+    "changelog":  "- Fix: bypass GoLogin daemon, launch Orbita trực tiếp với paid account token — sửa lỗi 403 Error in getting profile info",
+    "version":  "2.0.58",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.58/MiNoVaCreative-v2.0.58.zip"
 }

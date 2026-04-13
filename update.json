@@ -1,6 +1,6 @@
 {
-  "version": "2.0.67",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.67/MiNoVaCreative_v2.0.67.zip",
-  "changelog": "v2.0.67:\n- Fix checkbox không tích được: bỏ Command xung đột, dùng TwoWay binding + callback notify SelectedCount\n- Xác nhận: xóa profile trong ứng dụng sẽ tự động xóa profile trên GoLogin cloud",
+  "version": "2.0.68",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.68/MiNoVaCreative_v2.0.68.zip",
+  "changelog": "v2.0.68:\n- Fix tạo profile luôn dùng Windows (os=win, osSpec=win11)\n- Sau khi tạo: kiểm tra os thực tế GoLogin trả về, nếu không phải win thì enforce lại qua PUT\n- Merge sanity: ép os=win trước mọi lần PUT toàn bộ profile lên cloud",
   "mandatory": false
 }

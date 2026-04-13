@@ -1,1 +1,1 @@
-{"version":"2.0.55","downloadUrl":"https://github.com/tuandv1987/minova-releases/releases/download/v2.0.55/MiNoVaCreative_v2.0.55-fixed.zip","releaseNotes":"Fix GoLogin 403: inject API token vao local daemon truoc khi start profile.","mandatory":true}
+{"version":"2.0.56","downloadUrl":"https://github.com/tuandv1987/minova-releases/releases/download/v2.0.56/MiNoVaCreative_v2.0.56.zip","releaseNotes":"Fix GoLogin 403: cloud pre-check + token trong body + diagnostic logs. Neu gap 403, app se bao ro nguyen nhan (token sai account, profile bi xoa, v.v.)","mandatory":true}

@@ -1,6 +1,6 @@
 {
-  "version": "2.0.66",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.66/MiNoVaCreative_v2.0.66.zip",
-  "changelog": "v2.0.66:\n- Fix proxy auth: dùng CDP flat session model (Target.setAutoAttach + flatten:true)\n  + Fetch.enable được enable trên TỪNG page session (không chỉ browser-level)\n  + Tự động intercept khi tab mới mở (Target.attachedToTarget)\n  + Fix root cause dialog 'Sign in' — trước đây Fetch.authRequired không được handle vì gửi sai target\n- Thêm --proxy-bypass-list để Chrome không bỏ qua proxy",
+  "version": "2.0.67",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.67/MiNoVaCreative_v2.0.67.zip",
+  "changelog": "v2.0.67:\n- Fix checkbox không tích được: bỏ Command xung đột, dùng TwoWay binding + callback notify SelectedCount\n- Xác nhận: xóa profile trong ứng dụng sẽ tự động xóa profile trên GoLogin cloud",
   "mandatory": false
 }

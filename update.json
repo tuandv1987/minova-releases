@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "Fix dut diem loi tao profile OS Linux: dung POST /browser thay /browser/quick, gui day du os=win navigator.userAgent Windows Chrome ngay khi tao",
-    "version":  "2.0.71",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.71/MiNoVaCreative-v2.0.71.zip"
+    "changelog":  "Fix OS Linux: truyen --user-agent vao Orbita launch args. Orbita khong tu dung navigator.userAgent tu profile khi launch truc tiep - phai inject qua flag",
+    "version":  "2.0.72",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.72/MiNoVaCreative-v2.0.72.zip"
 }

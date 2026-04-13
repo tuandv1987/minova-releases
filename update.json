@@ -1,6 +1,6 @@
 {
-  "version": "2.0.64",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.64/MiNoVaCreative_v2.0.64.zip",
-  "changelog": "v2.0.64:\n- Báº£ng GoLogin: bá» cá»™t MÃ£, tÃ¡ch Quyá»n thÃ nh 2 cá»™t PhÃ²ng Ban + NhÃ¢n ViÃªn Quáº£n LÃ½\n- ThÃªm cá»™t Ghi ChÃº\n- PhÃ¢n quyá»n hÃ ng loáº¡t nhiá»u profile cÃ¹ng lÃºc (tick checkbox + nÃºt PhÃ¢n quyá»n)\n- Fix proxy auth: tá»± Ä‘á»™ng inject credentials qua CDP Fetch.authRequired, khÃ´ng cÃ²n dialog Sign in\n- Táº¯t WebRTC trÃªn GoLogin cloud khi má»Ÿ profile",
+  "version": "2.0.65",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.65/MiNoVaCreative_v2.0.65.zip",
+  "changelog": "v2.0.65:\n- Fix WebRTC IP leak: thêm flags --webrtc-ip-handling-policy=disable_non_proxied_udp + --force-webrtc-ip-handling-policy\n- Patch Chrome Preferences (webrtc.ip_handling_policy) trước khi mở profile\n- Luôn tải mới profile zip từ cloud để đảm bảo config mới nhất\n- Redesign UI GoLogin: bảng chuyên nghiệp hơn, cột Trust Badge (Proxy + WebRTC), nút actions icon-only",
   "mandatory": false
 }

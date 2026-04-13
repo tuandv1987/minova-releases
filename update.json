@@ -1,6 +1,6 @@
 {
-  "version": "2.0.69",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.69/MiNoVaCreative_v2.0.69.zip",
-  "changelog": "v2.0.69:\n- Fix không download được bản cập nhật: thêm User-Agent header bắt buộc cho GitHub\n- Log chi tiết HTTP status khi download thất bại\n- Hiển thị link download thủ công khi auto-update fail",
+  "version": "2.0.70",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.70/MiNoVaCreative-v2.0.70.zip",
+  "changelog": "v2.0.70:\n- Fix lỗi tạo profile GoLogin ra OS Linux/Mac\n- Luôn enforce os=win sau khi tạo profile, bất kể GoLogin /browser/quick trả về gì",
   "mandatory": false
 }

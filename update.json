@@ -1,6 +1,6 @@
 {
-  "version": "2.0.68",
-  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.68/MiNoVaCreative_v2.0.68.zip",
-  "changelog": "v2.0.68:\n- Fix tạo profile luôn dùng Windows (os=win, osSpec=win11)\n- Sau khi tạo: kiểm tra os thực tế GoLogin trả về, nếu không phải win thì enforce lại qua PUT\n- Merge sanity: ép os=win trước mọi lần PUT toàn bộ profile lên cloud",
+  "version": "2.0.69",
+  "downloadUrl": "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.69/MiNoVaCreative_v2.0.69.zip",
+  "changelog": "v2.0.69:\n- Fix không download được bản cập nhật: thêm User-Agent header bắt buộc cho GitHub\n- Log chi tiết HTTP status khi download thất bại\n- Hiển thị link download thủ công khi auto-update fail",
   "mandatory": false
 }

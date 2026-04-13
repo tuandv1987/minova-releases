@@ -1,6 +1,6 @@
 ﻿{
     "mandatory":  false,
-    "changelog":  "Fix OS Linux va tab ten Orbita: inject --user-agent Windows Chrome vao Orbita args, patch profile.name vao Preferences de tab hien ten channel dung",
-    "version":  "2.0.73",
-    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.73/MiNoVaCreative-v2.0.73.zip"
+    "changelog":  "- Fix profile tao ra OS Linux thay vi Windowsn- Fix khong mo duoc profile khi GoLogin.exe chua chay",
+    "version":  "2.0.74",
+    "downloadUrl":  "https://github.com/tuandv1987/minova-releases/releases/download/v2.0.74/MiNoVaCreative-v2.0.74.zip"
 }
